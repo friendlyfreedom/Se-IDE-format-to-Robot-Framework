@@ -1,5 +1,5 @@
 # Se-IDE-format-to-Robot-Framework
-This program use to convert file in Selenium IDE format (html) to Robot Framework format. This program is written on Python 2.7
+This program use to convert file in Selenium IDE format (html) to Robot Framework format with Selenium2Library. This program is written on Python 2.7. Originally written by NeverSmileK57CLC for use with RF SeleniumLibrary.
 
 
 <h2>Instruction:</h2>
